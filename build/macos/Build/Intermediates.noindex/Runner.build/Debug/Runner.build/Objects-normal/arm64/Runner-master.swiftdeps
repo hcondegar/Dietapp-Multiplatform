@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.113.202 clang-1400.0.16.2)"
+options: "a41f535e37a9c63581eeee9589f4b76a6acc37c94ff249d948f3b16c010e78f3"
+build_start_time: [1655113356, 771296977]
+build_end_time: [1655113362, 204874992]
+inputs:
+  "/Users/hcondegar/StudioProjects/dietapp/macos/Flutter/GeneratedPluginRegistrant.swift": [1655113336, 556302309]
+  "/Users/hcondegar/StudioProjects/dietapp/macos/Runner/AppDelegate.swift": [1654777066, 400099754]
+  "/Users/hcondegar/StudioProjects/dietapp/macos/Runner/MainFlutterWindow.swift": [1654777066, 401540756]

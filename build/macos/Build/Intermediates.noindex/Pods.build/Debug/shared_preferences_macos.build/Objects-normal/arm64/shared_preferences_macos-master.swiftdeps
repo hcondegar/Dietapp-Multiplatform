@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.113.202 clang-1400.0.16.2)"
+options: "b8cfad118c76091920d51e06c4c90c20337c18c73a757027ef8b841281cbb375"
+build_start_time: [1655113342, 214622020]
+build_end_time: [1655113348, 642526149]
+inputs:
+  "/Users/hcondegar/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.4/macos/Classes/SharedPreferencesPlugin.swift": [1655107676, 914806842]
